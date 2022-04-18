@@ -87,4 +87,11 @@ target/
 
 # Mypy cache
 .mypy_cache/
+
+
 .gitignore
+data/raw/test/
+data/raw/train/
+data/raw/dog-breed-identification.zip
+data/raw/labels.csv
+data/raw/sample_submission.csv
